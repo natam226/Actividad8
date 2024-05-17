@@ -1,4 +1,4 @@
-idTemporada,numTemporada,añoLanzamiento
+idTemporada,numTemporada,anioLanzamiento
 1001,Temporada 1,2013
 1002,Temporada 3,2012
 1003,Temporada 4,2008
@@ -9,3 +9,6 @@ idTemporada,numTemporada,añoLanzamiento
 1008,Temporada 5,2019
 1009,Temporada 3,2022
 1010,Temporada 1,2020
+1011,Temporada1,2024
+1012,Temporada 1,2020
+1013,Temporada 1,2022
